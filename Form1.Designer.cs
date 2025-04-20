@@ -81,7 +81,7 @@
             // menuAddTodo
             // 
             this.menuAddTodo.Name = "menuAddTodo";
-            this.menuAddTodo.Size = new System.Drawing.Size(160, 26);
+            this.menuAddTodo.Size = new System.Drawing.Size(224, 26);
             this.menuAddTodo.Text = "Add ToDo";
             this.menuAddTodo.Click += new System.EventHandler(this.menuAddTodo_Click);
             // 
